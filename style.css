@@ -1,0 +1,43 @@
+
+	a {
+		text-decoration:none;
+		display:inline-block;
+		padding:18px;
+		margin:2px;
+		background-color: grey;
+		color: rgb(210,210,210);
+		border-radius: 6px;
+	}
+	a:hover{
+		background-color: rgb(80,80,80);
+		color: rgb(230,240,250);
+	}
+.buy{
+	margin-left: 20px;
+}
+.mtitle{
+	font-size: 20px;
+
+}
+.submit_button
+{
+	border-radius: 25px;
+	background-color: rgb(50, 234, 255);
+	color:rgb(56, 71, 50);
+	padding:18px;
+	font-size: 14px;
+	font-weight: 600;
+}
+
+#bot
+{
+	font-size: 18px;
+	 position:fixed;
+   bottom:0;
+   width:100%;
+   height:40px;   /* Height of the footer */
+   background:#6cf;
+   text-align: center;
+   padding-top: 15px;
+}
+

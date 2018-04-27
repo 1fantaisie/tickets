@@ -1,0 +1,391 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"sta",
+				"startedTimer"
+			],
+			[
+				"start",
+				"startDate"
+			],
+			[
+				"workspace",
+				"Workspaces"
+			],
+			[
+				"def",
+				"default_workspace"
+			],
+			[
+				"redi",
+				"redirectTo"
+			],
+			[
+				"work",
+				"workspaces"
+			],
+			[
+				"wo",
+				"workspace"
+			],
+			[
+				"wor",
+				"workspace_id"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"workspa",
+				"workspace_name"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"movie",
+				"movie_id"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp64/www/tickets/index.php",
+		"/C/wamp64/www/tickets/header.php",
+		"/C/wamp64/www/tickets/login.php",
+		"/C/wamp64/www/tickets/process_login.php",
+		"/C/wamp64/www/tickets/contact.php",
+		"/C/wamp64/www/tickets/register.php",
+		"/C/wamp64/www/tickets/process_register.php",
+		"/C/wamp64/www/tickets/connect.php",
+		"/C/wamp64/www/tickets/footer.php",
+		"/C/wamp64/www/tickets/logout.php",
+		"/C/wamp64/www/tickets/menu.php",
+		"/C/wamp64/www/manager/resources/views/projects/index.blade.php",
+		"/C/wamp64/www/manager/resources/views/layouts/app.blade.php",
+		"/C/wamp64/www/manager/app/Http/Controllers/AccountController.php",
+		"/C/wamp64/www/manager/app/Account.php",
+		"/C/wamp64/www/manager/public/js/timer.js",
+		"/C/wamp64/www/manager/routes/web.php",
+		"/C/wamp64/www/manager/resources/assets/js/timer.js",
+		"/C/wamp64/www/manager/resources/views/workspaces/index.blade.php",
+		"/C/wamp64/www/manager/resources/timer.blade.php",
+		"/C/wamp64/www/manager/app/Http/Controllers/TimerController.php",
+		"/C/wamp64/www/manager/resources/assets/js/timer.jg",
+		"/C/wamp64/www/manager/app/Http/Controllers/ProjectController.php",
+		"/C/wamp64/www/manager/app/Http/Controllers/Auth/LoginController.php",
+		"/C/wamp64/www/manager/app/Http/Controllers/WorkspaceController.php",
+		"/C/wamp64/www/manager/app/Workspace.php",
+		"/C/wamp64/www/manager/app/Project.php",
+		"/C/wamp64/www/manager/app/Providers/EventServiceProvider.php",
+		"/C/wamp64/www/manager/app/Listeners/LogAuthenticated.php",
+		"/C/wamp64/www/managerapp/app/Providers/EventServiceProvider.php",
+		"/C/wamp64/www/managerapp/app/Providers/AuthServiceProvider.php",
+		"/C/wamp64/www/manager/resources/views/projects/create.blade.php",
+		"/C/wamp64/www/managerapp/app/Http/Controllers/Auth/LoginController.php",
+		"/C/wamp64/www/manager/app/Exceptions/Handler.php",
+		"/C/wamp64/www/manager/readme.md",
+		"/C/wamp64/www/manager/index.php",
+		"/C/wamp64/www/manager/resources/views/workspaces/create.blade.php",
+		"/C/Users/denis/AppData/Local/Temp/scp05259/public_html/wp-content/themes/hermannstadt/style.css",
+		"/C/Users/denis/AppData/Local/Temp/scp05792/public_html/wp-content/themes/hermannstadt/header.php",
+		"/C/Users/denis/AppData/Local/Temp/scp59449/public_html/wp-content/themes/hermannstadt/style.css",
+		"/C/Users/denis/AppData/Local/Temp/scp35824/public_html/wp-content/themes/hermannstadt/header.php",
+		"/C/wamp64/www/manager/resources/views/projects.blade.php",
+		"/C/Users/denis/Downloads/database.php",
+		"/C/wamp64/www/manager/config/session.php",
+		"/C/wamp64/www/manager/app/Http/Controllers/HomeController.php",
+		"/C/wamp64/www/manager/resources/views/workspaces.blade.php",
+		"/C/wamp64/www/manager/resources/views/workspaces_new.blade.php",
+		"/C/wamp64/www/manager/app/Http/Kernel.php",
+		"/C/wamp64/www/manager/resources/views/guest.blade.php",
+		"/C/wamp64/www/manager/resources/views/layouts/basic.blade.php",
+		"/C/wamp64/www/manager/public/css/general.css",
+		"/C/wamp64/www/manager/.htaccess",
+		"/C/wamp64/www/manager/app/Http/Controllers/Guest.php",
+		"/C/wamp64/www/manager/public/css/guest.css",
+		"/C/wamp64/www/manager/bootstrap/app.php",
+		"/C/wamp64/www/managerapp/routes/web.php",
+		"/C/wamp64/www/manager/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Header.php",
+		"/C/wamp64/www/manager/app/Http/Resources/guest.php",
+		"/C/wamp64/www/managerapp/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/C/wamp64/www/manager/database/migrations/2017_10_13_140306_users.php",
+		"/C/wamp64/www/manager/database/migrations/2017_10_13_140058_help.php",
+		"/C/wamp64/www/manager/config/view.php",
+		"/C/wamp64/www/manager/app/User.php",
+		"/C/wamp64/www/manager/app/Http/Controllers/Controller.php",
+		"/C/wamp64/www/manager/app/Console/Kernel.php",
+		"/C/wamp64/www/manager/config/database.php",
+		"/C/Users/denis/Downloads/wp-config (1).php",
+		"/C/Users/denis/Downloads/wp-config.php",
+		"/C/wamp64/www/MdsProject/getmovie.php",
+		"/C/wamp64/www/MdsProject/getMoviesList.php",
+		"/C/wamp64/www/MdsProject/index.php",
+		"/C/wamp64/www/MdsProject/login.php",
+		"/C/wamp64/www/MdsProject/rating.html",
+		"/C/wamp64/www/MdsProject/rate.php",
+		"/C/wamp64/www/MdsProject/show_movie.php",
+		"/C/wamp64/www/javascript/index.html",
+		"/C/wamp64/www/movies/login.php",
+		"/C/wamp64/www/movies/index.php",
+		"/C/wamp64/www/ci/application/models/gift_model.php",
+		"/C/wamp64/www/ci/application/views/view_gift_view.php",
+		"/C/wamp64/www/ci/application/config/routes.php",
+		"/C/wamp64/www/ci/application/views/wedding_view.php",
+		"/C/wamp64/www/ci/application/cache/.htaccess",
+		"/C/wamp64/www/ci/system/.htaccess",
+		"/C/wamp64/www/ci/application/.htaccess",
+		"/C/wamp64/www/ci/application/controllers/Organizator.php",
+		"/C/wamp64/www/ci/application/config/config.php",
+		"/C/wamp64/www/project1/index.php",
+		"/C/wamp64/www/project1/object.php",
+		"/C/wamp64/www/ci/application/core/MY_Controller.php",
+		"/C/wamp64/www/ci/system/core/Router.php",
+		"/C/wamp64/www/ci/system/core/Config.php",
+		"/C/wamp64/www/ci/system/core/Common.php",
+		"/C/wamp64/www/ci/application/views/templates/header.php",
+		"/C/wamp64/www/ci/application/views/home_view.php",
+		"/C/wamp64/www/ci/application/core/index.html",
+		"/C/Users/denis/Desktop/php training/project1/index.php",
+		"/C/wamp64/bin/apache/apache2.4.23/conf/httpd.conf",
+		"/c/wamp64/logs/access.log",
+		"/c/wamp64/logs/apache_error.log"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n<",
+			"displayTimer",
+			"reque",
+			"5.",
+			"5",
+			"header",
+			"12",
+			"enter",
+			"row",
+			"logo",
+			"content"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rw",
+				"routes\\web.php"
+			],
+			[
+				"rwe",
+				"routes\\web.php"
+			],
+			[
+				"rweb",
+				"routes\\web.php"
+			],
+			[
+				"event",
+				"app\\Providers\\EventServiceProvider.php"
+			],
+			[
+				"",
+				"app\\Providers\\EventServiceProvider.php"
+			],
+			[
+				"eventse",
+				"app\\Providers\\EventServiceProvider.php"
+			],
+			[
+				"chome",
+				"app\\Http\\Controllers\\HomeController.php"
+			],
+			[
+				"head",
+				"vendor\\swiftmailer\\swiftmailer\\lib\\classes\\Swift\\Mime\\Header.php"
+			],
+			[
+				"model",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php"
+			],
+			[
+				"vhome",
+				"resources\\views\\home.blade.php"
+			],
+			[
+				"muser",
+				"database\\migrations\\2017_10_13_140306_users.php"
+			],
+			[
+				"mhelp",
+				"database\\migrations\\2017_10_13_140058_help.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
